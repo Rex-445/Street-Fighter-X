@@ -1,0 +1,13 @@
+Position:1600,20; Size:1.2,1; Image&Name: UI_Select_Guide; Stage: Champion_Select; ItemType: Image; Next: None
+Position:160,170; Size:1.2,1; Image&Name: UI_Base; Stage: Champion_Select; ItemType: Image; Next: None
+Position:160,170; Size:1.2,1; Image&Name: head; Stage: Champion_Select; ItemType: Image; Next: None
+Position:130,40; Size:1.2,1; Image&Name: UI_Ryu; Stage: Champion_Select; ItemType: Image; Next: None
+Position:240,50; Size:1.2,1; Image&Name: Select_Image; Stage: Champion_Select; ItemType: Image; Next: None
+Position:250,55; Size:.7,.7; Image&Name: UI_Right; Stage: Champion_Select; ItemType: Button; Next: Champion_Select
+Position:410,55; Size:.7,.7; Image&Name: UI_Left; Stage: Champion_Select; ItemType: Button; Next: Champion_Select
+Position:325,70; Size:1.5,1.5; Image&Name: small; Stage: Champion_Select; ItemType: Image; Next: None
+Position:315,10; Size:1,1; Image&Name: Begin; Stage: Champion_Select; ItemType: Button; Next: GAME
+Position:310,230; Size:1,1; Image&Name: Play; Stage: Main; ItemType: Button; Next: Champion_Select
+Position:320,160; Size:1,1; Image&Name: Exit; Stage: Main; ItemType: Button; Next: Exit
+Position:250,320; Size:1,1; Image&Name: Title; Stage: Main; ItemType: Image; Next: Exit
+Position:5,5; Size:1,1; Image&Name: Back; Stage: Champion_Select; ItemType: Button; Next: Main

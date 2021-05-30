@@ -1,0 +1,10 @@
+BG Name: Soldiers Base
+
+image;bg/sp/Base.png; BG; CameraType: 1
+loop: 3; offset: 554, 0
+image;bg/sp/Animatable/fire_detail; Prop; CameraType: 1
+loop: 6; offset: 277, 303; startpoint: -41; anim:True; length: 4; speed: .15; child:True;
+image;bg/sp/Animatable/fire; Prop; CameraType: 1
+loop: 6; offset: 277, 325; startpoint: 0; anim:True; length: 7; speed: .35; child:False; vel_x: 0; vel_y: 0; sound: 0; soundPath:None
+image;bg/sp/Animatable/wall; Prop; CameraType: 1
+loop: 6; offset: 277, 220; startpoint: -57; anim:True; length: 2; speed: .2; child:False; vel_x: 0; vel_y: 0; sound: 0; soundPath:None
